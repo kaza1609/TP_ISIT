@@ -1,0 +1,32 @@
+[
+    [
+        {
+            "name": "Сыр",
+            "calories": 111,
+            "protein": 7,
+            "fats": 15,
+            "carbohydrates": 10
+        },
+        200
+    ],
+    [
+        {
+            "name": "Банан",
+            "calories": 138,
+            "protein": 5,
+            "fats": 1,
+            "carbohydrates": 2
+        },
+        150
+    ],
+    [
+        {
+            "name": "Кекс",
+            "calories": 74,
+            "protein": 7,
+            "fats": 12,
+            "carbohydrates": 11
+        },
+        300
+    ]
+]
